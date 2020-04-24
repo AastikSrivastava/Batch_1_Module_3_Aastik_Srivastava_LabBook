@@ -1,0 +1,1 @@
+Copy the "lib" folder to both Lab-1 and Lab-2 folders before running.
